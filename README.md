@@ -9,4 +9,6 @@ Course complete for learn Linux from basic to master
 
   First you should know what is a OS:
 
-[Introduction to Operating Systems(http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf).
+Introduction to Operating Systems
+
+(http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
